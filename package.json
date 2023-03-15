@@ -1,0 +1,31 @@
+{
+  "name": "first-nextjs-app",
+  "version": "1.0.0",
+  "description": "Single HTML page introduction to Next JS, using next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "postinstall": "next build",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "reactstrap": "^9.1.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Megh2/next-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Megh2/next-app/issues"
+  },
+  "homepage": "https://github.com/Megh2/next-app#readme"
+}
